@@ -7,4 +7,4 @@
 
 ### Work Experience
 - Math Teacher
-- Nursery Assistant
+
