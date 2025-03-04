@@ -1,5 +1,5 @@
 # Data Analyst
-
+This repository contains different projects on Data Visualization, Exploratory Data Analysis, Power Query in Excel, Data Analysis, Machine Learning algorithms.
 ###  Education
 - Math Teacher
 - Certified IBM Professional in Data Analysis,
